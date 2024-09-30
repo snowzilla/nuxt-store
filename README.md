@@ -1,7 +1,12 @@
 # Nuxt 3 Store
 
 stack: Nuxt 3 + TypeScript
-api: Axios
+
+api: axios
+
+ui: @nuxt/icon, @nuxtjs/tailwindcss, vue3-toastify
+
+state: pinia
 
 
 ## Setup
