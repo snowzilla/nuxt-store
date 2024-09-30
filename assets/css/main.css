@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Fredoka', sans-serif;
+  font-weight: 500;
+  cursor: default;
+}
+
+
+h1 {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
