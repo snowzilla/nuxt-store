@@ -1,7 +1,8 @@
 # Nuxt 3 Store
 
 
-Project info:
+##Project info:
+
 ```bash
 # stack
 Nuxt 3 + TypeScript
