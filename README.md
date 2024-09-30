@@ -1,12 +1,14 @@
 # Nuxt 3 Store
 
+fakeApi: Platzi Fake Store API
+
 stack: Nuxt 3 + TypeScript
 
 api: axios
 
 ui: @nuxt/icon, @nuxtjs/tailwindcss, vue3-toastify
 
-state: pinia
+state: pinia + pinia-plugin-persistedstate
 
 
 ## Setup
