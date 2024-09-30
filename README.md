@@ -1,15 +1,22 @@
 # Nuxt 3 Store
 
-fakeApi: Platzi Fake Store API
 
-stack: Nuxt 3 + TypeScript
+```bash
+# stack
+Nuxt 3 + TypeScript
 
-api: axios
+#Fake api
+Platzi Fake Store API
 
-ui: @nuxt/icon, @nuxtjs/tailwindcss, vue3-toastify
+#Api:
+Axios
 
-state: pinia + pinia-plugin-persistedstate
+#Ui:
+@nuxt/icon, @nuxtjs/tailwindcss, vue3-toastify
 
+#State:
+pinia + pinia-plugin-persistedstate
+```
 
 ## Setup
 
