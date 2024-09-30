@@ -9,7 +9,7 @@ Nuxt 3 + TypeScript
 Platzi Fake Store API
 
 #Api:
-Axios
+axios
 
 #Ui:
 @nuxt/icon, @nuxtjs/tailwindcss, vue3-toastify
